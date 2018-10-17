@@ -15,6 +15,8 @@ import android.widget.Toast;
 import java.util.Collections;
 import java.util.List;
 
+
+// wassssup berry boy
 public class QuizActivity extends AppCompatActivity {
     //From the quizActivity, we will request the questions from our database.
     public static final String EXTRA_SCORE = "extraScore"; //we want to send our final score back to the Starting Screen Activity
